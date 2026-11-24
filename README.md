@@ -1,4 +1,4 @@
-# even-g2-targets
+# Even Realities Pupil Labs Sync
 
 Calibrate where the Even Realities G2 display appears in a Pupil Labs Neon scene camera.
 
